@@ -23,6 +23,7 @@ public class FuncTest2 {
 		input();
 		process();
 		output();
+		System.out.println("End.....");
 
 	}
 
